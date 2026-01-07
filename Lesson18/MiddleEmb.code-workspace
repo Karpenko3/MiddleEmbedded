@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "17_rndm_seed",
+			"path": "../../../17_rndm_seed"
+		},
+		{
+			"name": "lsn18_Fillin",
+			"path": "../../../lsn18_Fillin"
+		},
+		{
+			"name": "Matrix_1",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
