@@ -13,13 +13,12 @@ void setup() {
 
 void loop() {
   col = map(analogRead(0),0,1023,1,8);
-  for(int i= 0; i < col; i++){
+  for(int i= 7; i >= col; i--){
    columnOn(i);
   }
   delay(10);
   lc.clearDisplay(0);
   }
-
 
 
 void columnOn(int op){
