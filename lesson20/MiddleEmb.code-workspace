@@ -4,36 +4,8 @@
 			"path": ".."
 		},
 		{
-			"name": "lesson1",
-			"path": "../Lesson18/lesson1"
-		},
-		{
-			"name": "repetition_task",
-			"path": "../Lesson19/repetition_task"
-		},
-		{
-			"name": "lsn19_1",
-			"path": "../Lesson19/lsn19_1"
-		},
-		{
-			"name": "practical_task",
-			"path": "../Lesson19/practical_task"
-		},
-		{
-			"name": "additional_task19.1",
-			"path": "../Lesson19/additional_task19.1"
-		},
-		{
-			"name": "additional_19.1.1",
-			"path": "../Lesson19/additional_19.1.1"
-		},
-		{
-			"name": "additional_19.1.2",
-			"path": "../Lesson19/additional_19.1.2"
-		},
-		{
-			"name": "GameBoy_start",
-			"path": "../GameBoy_start"
+			"name": "Button_play",
+			"path": "Button_play"
 		}
 	],
 	"settings": {}

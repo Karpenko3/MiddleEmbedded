@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../ProEmbedded"
+		},
+		{
+			"name": "Tone32",
+			"path": "../../ProEmbedded/Lesson21/Tone32"
+		},
+		{
+			"name": "OwnProject",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
